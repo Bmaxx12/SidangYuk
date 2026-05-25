@@ -1,0 +1,6 @@
+{
+  "name": "Sidang.AI",
+  "description": "Simulasi sidang skripsi interaktif berbasis AI. Jawab pertanyaan dosen penguji menggunakan suara, analisis real-time, counter kata jeda, dan dapatkan verdict jujur.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
